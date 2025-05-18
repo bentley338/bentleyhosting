@@ -1,0 +1,59 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0d0d20;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: #111133;
+}
+
+.logo {
+  width: 100px;
+  border-radius: 12px;
+}
+
+h1 {
+  margin: 10px 0 0;
+  color: #9b59b6;
+}
+
+p {
+  margin: 5px 0 15px;
+}
+
+main {
+  padding: 20px;
+}
+
+.product, .channel {
+  background: #1a1a40;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.price {
+  color: #ff5ebc;
+}
+
+.benefit {
+  color: #a3d9ff;
+  margin-top: 5px;
+}
+
+a {
+  color: #9cf;
+}
+
+footer {
+  background: #111133;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  color: #888;
+}
